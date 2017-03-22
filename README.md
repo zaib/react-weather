@@ -18,7 +18,7 @@ npm start
 Project will be listening on port 3000
 
 ```
-http:://localhost:3000
+[http:://localhost:3000](http:://localhost:3000)
 ```
 
 
