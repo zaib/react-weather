@@ -2,15 +2,14 @@
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+Here is series of steps that will tell you have, how to get a development env running on your local machine
 
 ```
+git clone https://github.com/zaib/react-weather.git
 npm install
 npm start
 ```
