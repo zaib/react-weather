@@ -18,13 +18,13 @@ npm start
 Project will be listening on port 3000
 
 ```
-[http:://localhost:3000](http:://localhost:3000)
+http:://localhost:3000
 ```
 
 
 ## Authors
 
-* **Jahanzaib Aslam** - *Initial work* - [PurpleBooth](https://github.com/zaib)
+* **Jahanzaib Aslam** - *Initial work* - [zaib](https://github.com/zaib)
 
 ## License
 
