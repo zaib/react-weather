@@ -1,8 +1,4 @@
-# react-weather
-
-# Project Title
-
-One Paragraph of project description goes here
+# React Weather Application
 
 ## Getting Started
 
@@ -17,6 +13,12 @@ Say what the step will be
 ```
 npm install
 npm start
+```
+
+Project will be listening on port 3000
+
+```
+http:://localhost:3000
 ```
 
 
